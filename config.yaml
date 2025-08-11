@@ -29,4 +29,4 @@ keywords:
     "RL":
         filters: ["Robot Reinforcement Learning", "Robotic Reinforcement Learning"]
     "Tactile":
-        filters: ["Tactile Sensing", "Tactile Sensing", "Tactile Perception", "Tactile Perception"]
+        filters: ["Robot Tactile", "Robotic Tactile"]
